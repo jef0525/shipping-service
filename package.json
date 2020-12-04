@@ -1,0 +1,23 @@
+{
+  "name": "shipping-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jef0525/shipping-service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jef0525/shipping-service/issues"
+  },
+  "jest": {
+  "testEnvironment": "node"
+  },
+  "homepage": "https://github.com/jef0525/shipping-service#readme"
+}
