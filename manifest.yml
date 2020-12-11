@@ -1,0 +1,7 @@
+---
+applications:
+  - name: shipping-service-js
+    memory: 128M
+    instances: 1
+    env:
+      MICROS_PRODUCTS_URL: "labs-product-service.us-south.mybluemix.net/products"
