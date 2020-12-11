@@ -1,10 +1,15 @@
 {
-  "name": "shipping-service",
-  "version": "1.0.0",
+  "name": "shipping-service-01",
+  "version": "0.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest tests",
+    "start": "node src/app.js"
+  },
+  "engines": {
+    "node": "8.11.3",
+    "npm": "5.6.x"
   },
   "repository": {
     "type": "git",
